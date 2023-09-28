@@ -65,8 +65,8 @@ if __name__ == "__main__":
 
     # get/prepare all the  variables
     try:
-        USER ="goutam61"
-        PASSWORD ="reset1212@12"
+        USER =""
+        PASSWORD =""
         INPUT ="Accounts.csv"
     except KeyError as e:
         usage()
